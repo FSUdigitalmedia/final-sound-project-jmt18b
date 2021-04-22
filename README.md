@@ -14,4 +14,3 @@ Crashing ocean waves with a rocking buoy
 
 Inspired by a ceramic octopus sculpture
 
-![Octopus](https://user-images.githubusercontent.com/octopus.png)
